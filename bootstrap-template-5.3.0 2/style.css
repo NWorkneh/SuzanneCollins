@@ -1,0 +1,110 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+.title-suz img{
+	width: 60%;
+	margin: 40px;
+	padding-right: 100px;
+	float: right;
+}
+
+#title-text{
+padding-top: 150px;
+  padding-left: 100px;
+}
+
+.welcome
+{
+	background-color: #C5C5C5;
+}
+
+#rat-pic {
+  width: 55%; /* Adjust the percentage to make the image smaller or larger */
+  max-width: 100%; /* Ensure the image doesn't exceed its container's width */
+  height: auto; /* Maintain the image's aspect ratio */
+  float: right;
+
+}
+
+#welcome-text, #recent-text
+{
+  padding-top: 10px;
+  padding-left: 80px;
+
+}
+
+ #carouselExampleAutoplaying
+ {
+ 	top: 200px;
+ }
+
+ .container {
+            display: flex;
+            justify-content: space-around; /* Distribute columns evenly */
+        }
+
+        /* Style for the columns */
+        .column {
+            flex: 1; /* Equal width for each column */
+            text-align: center;
+        }
+
+        /* Style for the buttons */
+        .btn {
+            display: block;
+            width: 100%; /* Make buttons fill the column width */
+            padding: 10px;
+            background-color: black;
+            color: #fff;
+            border: none;
+        }
+
+        .container-works {
+            display: flex;
+            justify-content: space-around; /* Distribute columns evenly */
+        }
+
+        /* Style for the columns */
+        .column-works {
+            flex: 1; /* Equal width for each column */
+            text-align: center;
+        }
+
+        /* Style for the buttons */
+        .btn-works {
+            display: block;
+            width: 100%; /* Make buttons fill the column width */
+            padding: 100px; /* Increase padding to make buttons bigger */
+            font-size: 40px; /* Increase font size to make text bigger */
+            background-color: black;
+            color: #fff;
+            border: none;
+        }
+
+ .works h1 {
+ 	margin: 40px;
+ 	font-size: 70px; /* Increase font size to make text bigger */
+ }
+
+.books{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+ .books img {
+ 	width: 70%;
+ 	height: 80%;
+ 	padding-left: 40px;
+ }
+ .bio h1{
+ 	margin: 40px;
+ 	font-size: 70px; /* Increase font size to make text bigger */
+ }
+
+.bottom
+{
+background-color: #C5C5C5;
+}
+.bottom h5
+{
+	padding-top: 100px;
+padding-left: 20px;
+}
